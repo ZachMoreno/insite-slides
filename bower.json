@@ -1,0 +1,20 @@
+{
+  "name": "insite-slides",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ZachMoreno/insite-slides",
+  "main": "index.html",
+  "authors": [
+    "Ca Coastal Commission / ISU / Zachariah Moreno"
+  ],
+  "license": "UNLICENSED",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.2.0"
+  }
+}
